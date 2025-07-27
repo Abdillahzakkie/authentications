@@ -1,0 +1,8 @@
+{
+	"postman.settings.dotenv-detection-notification-visibility": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "modificationsIfAvailable",
+	"editor.formatOnType": true
+}
